@@ -101,11 +101,11 @@ Most of my active projects are licensed under **GNU AGPL-3.0**.
 - 🎮 Got into tech through gaming - still collect retro consoles and games
 - 🏠 Run a home lab because I enjoy tinkering (and value privacy)
 - 📚 Currently learning Go and loving it
-- 🌊 Based somewhere remote, by the beach
+- 🌊 Based somewhere remote, in the jungles of Southern African
 
 ---
 
-<sub>This GitHub is mostly dormant - find my active work on Codeberg.</sub>
+<sub>This GitHub is mostly dormant of personal projects - find my active work on [Codeberg](https://codeberg.org/coco32).</sub>
 
 <!--
 **cocode32/cocode32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
