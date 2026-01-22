@@ -14,12 +14,12 @@ I care about clean architecture, thoughtful solutions, and shipping quality soft
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00bcff?style=flat-square&logo=tailwindcss&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![NextJS](https://img.shields.io/badge/NextJS-fffff?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Data & Infrastructure**
@@ -28,11 +28,14 @@ I care about clean architecture, thoughtful solutions, and shipping quality soft
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)
 
 **Tools & Environment**
 
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -40,20 +43,28 @@ I care about clean architecture, thoughtful solutions, and shipping quality soft
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 
+**Communication & Services**
+
+![Fastmail](https://img.shields.io/badge/Fastmail-69D3F5?style=flat-square&logo=fastmail&logoColor=black)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)
+![Porkbun](https://img.shields.io/badge/Porkbun-EF6D93?style=flat-square&logo=porkbun&logoColor=white)
+
 ---
 
 ## 🚀 Side Projects
 
 I build things in my spare time because I enjoy it. Here are a few:
 
-| Project | Description | Stack | Additional Notes |
-|---------|-------------|-------|------------------|
-| **CrashFlow** | Personal finance tracking app | React, Hono, PostgreSQL, TailwindCSS, Docker | Currently in alpha phase; [ALPHA](https://alpha.crashflow.org) [Live](https://crashflow.org) |
+| Project | Description | Stack | Notes |
+|---------|-------------|-------|-------|
+| **CrashFlow** | Personal finance tracking app | React, Hono, PostgreSQL, TailwindCSS, Docker | Currently in alpha · [Alpha](https://alpha.crashflow.org) · [Live](https://crashflow.org) |
 | **Wishlist** | Consolidated wishlist for sharing with friends - claim items to avoid duplicate gifts | React, Hono, SQLite, TailwindCSS | [Live](https://cocox.dev) |
-| **Moonflower Ink Studio** | CRM-style website with admin panel for a friend's business | | [Live](https://moonflowerinkstudio.com) |
-| **Artisan Storefront** | E-commerce platform for handcrafted goods (in development) | Hono, React, TailwindCSS, Postgres, Docker | End user not ready to share link |
-| **Home Lab** | Self-hosted infrastructure: Pi-hole, WireGuard VPN as well as a locally hosted git instance with Forgejo for the ultra secret projects | Raspberry Pi, Debian (Rasperry Pi OS), nginx, forgejo | Self managed locally at home |
-| **Cloud Lab** | Cloud hosted VPS infrastructure: WireGuard VPN, Matrix homeserver with bridges, Telegram bridges, Other websites on nginx | VPS, Debian Trixie, nginx, Matrix Synapse Homeserver, Postfix | Running on VPS with a South Africa cloud provider |
+| **Moonflower Ink Studio** | CRM-style website with admin panel for a friend's business | React, Hono, SQLite, TailwindCSS, Docker | Hosted on AWS · [Live](https://moonflowerinkstudio.com) |
+| **Artisan Storefront** | E-commerce platform for handcrafted goods | Hono, React, TailwindCSS, PostgreSQL, Docker | In development |
+| **Home Lab** | Self-hosted infrastructure: Pi-hole, WireGuard VPN, locally hosted Forgejo for secret projects | Raspberry Pi, Debian, nginx, Forgejo | Self-managed at home |
+| **Cloud Lab** | Cloud VPS infrastructure: WireGuard VPN, Matrix homeserver with bridges, various websites | Debian Trixie, nginx, Matrix Synapse, Postfix | SA-based VPS provider |
 
 ---
 
