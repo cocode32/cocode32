@@ -11,7 +11,7 @@ I care about clean architecture, thoughtful solutions, and shipping quality soft
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2523968/newt)
 [![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-1E5397?style=for-the-badge&logo=stackexchange&logoColor=white)](https://meta.stackexchange.com/users/367004/newt)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://newtfyi)
-[![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)](https://matrix.to/#/@me:newt.fyi)
+[![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@me:newt.fyi)
 
 ---
 
