@@ -5,6 +5,15 @@ Software engineer with a love for building things that work well. I've been writ
 I care about clean architecture, thoughtful solutions, and shipping quality software. I do my best work with autonomy and trust, and I always deliver.
 
 ---
+## 🔗 Find Me Elsewhere
+
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/coco32)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2523968/newt)
+[![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-1E5397?style=for-the-badge&logo=stackexchange&logoColor=white)](https://meta.stackexchange.com/users/367004/newt)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://newtfyi)
+[![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)](https://matrix.to/#/@me:newt.fyi)
+
+---
 
 ## 🔧 What I Work With
 
@@ -42,11 +51,13 @@ I care about clean architecture, thoughtful solutions, and shipping quality soft
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![1Password](https://img.shields.io/badge/1Password-3B66BC?style=flat-square&logo=1password&logoColor=white)
 
 **Communication & Services**
 
 ![Fastmail](https://img.shields.io/badge/Fastmail-69D3F5?style=flat-square&logo=fastmail&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)
 ![Porkbun](https://img.shields.io/badge/Porkbun-EF6D93?style=flat-square&logo=porkbun&logoColor=white)
