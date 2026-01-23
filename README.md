@@ -31,6 +31,7 @@ I care about clean architecture, thoughtful solutions, and shipping quality soft
 ![VITE](https://img.shields.io/badge/Vite-9135FF?style=flat-square&logo=vite&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat-square&logo=angular&logoColor=white)
 
 **Data & Infrastructure**
 
