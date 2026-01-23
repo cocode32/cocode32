@@ -47,13 +47,13 @@ I care about clean architecture, thoughtful solutions, and shipping quality soft
 **Tools & Environment**
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![iTerm](https://img.shields.io/badge/iTerm-000000?style=flat-square&logo=iterm2&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![iTerm](https://img.shields.io/badge/iTerm-000000?style=flat-square&logo=iterm2&logoColor=white)
 ![1Password](https://img.shields.io/badge/1Password-3B66BC?style=flat-square&logo=1password&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/Webstorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=flat-square&logo=vscodium&logoColor=white)
