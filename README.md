@@ -47,6 +47,7 @@ I care about clean architecture, thoughtful solutions, and shipping quality soft
 **Tools & Environment**
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![iTerm](https://img.shields.io/badge/iTerm-000000?style=flat-square&logo=iterm2&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -63,8 +64,8 @@ I care about clean architecture, thoughtful solutions, and shipping quality soft
 
 **Communication & Services**
 
-![Fastmail](https://img.shields.io/badge/Fastmail-69D3F5?style=flat-square&logo=fastmail&logoColor=black)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Fastmail](https://img.shields.io/badge/Fastmail-69D3F5?style=flat-square&logo=maildotru&logoColor=black)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=imessage&logoColor=white)
 ![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)
