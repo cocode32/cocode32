@@ -5,6 +5,7 @@ Software engineer with a love for building things that work well. I've been writ
 I care about clean architecture, thoughtful solutions, and shipping quality software. I do my best work with autonomy and trust, and I always deliver.
 
 ---
+
 ## 🔗 Find Me Elsewhere
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/coco32)
@@ -77,14 +78,14 @@ I care about clean architecture, thoughtful solutions, and shipping quality soft
 
 I build things in my spare time because I enjoy it. Here are a few:
 
-| Project | Description | Stack | Notes |
-|---------|-------------|-------|-------|
-| **CrashFlow** | Personal finance tracking app | React, Hono, PostgreSQL, TailwindCSS, Docker | Currently in alpha · [Alpha](https://alpha.crashflow.org) · [Live](https://crashflow.org) |
-| **Wishlist** | Consolidated wishlist for sharing with friends - claim items to avoid duplicate gifts | React, Hono, SQLite, TailwindCSS | [Live](https://cocox.dev) |
-| **Moonflower Ink Studio** | CRM-style website with admin panel for a friend's business | React, Hono, SQLite, TailwindCSS, Docker | Hosted on AWS · [Live](https://moonflowerinkstudio.com) |
-| **Artisan Storefront** | E-commerce platform for handcrafted goods | Hono, React, TailwindCSS, PostgreSQL, Docker | In development |
-| **Home Lab** | Self-hosted infrastructure: Pi-hole, WireGuard VPN, locally hosted Forgejo for secret projects | Raspberry Pi, Debian, nginx, Forgejo | Self-managed at home |
-| **Cloud Lab** | Cloud VPS infrastructure: WireGuard VPN, Matrix homeserver with bridges, various websites | Debian Trixie, nginx, Matrix Synapse, Postfix | SA-based VPS provider |
+| Project                   | Description                                                                                    | Stack                                         | Notes                                                                                     |
+|---------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------------------------------------|
+| **CrashFlow**             | Personal finance tracking app                                                                  | React, Hono, PostgreSQL, TailwindCSS, Docker  | Currently in alpha · [Alpha](https://alpha.crashflow.org) · [Live](https://crashflow.org) |
+| **Wishlist**              | Consolidated wishlist for sharing with friends - claim items to avoid duplicate gifts          | React, Hono, SQLite, TailwindCSS              | [Live](https://cocox.dev)                                                                 |
+| **Moonflower Ink Studio** | CRM-style website with admin panel for a friend's business                                     | React, Hono, SQLite, TailwindCSS, Docker      | Hosted on AWS · [Live](https://moonflowerinkstudio.com)                                   |
+| **Artisan Storefront**    | E-commerce platform for handcrafted goods                                                      | Hono, React, TailwindCSS, PostgreSQL, Docker  | In development                                                                            |
+| **Home Lab**              | Self-hosted infrastructure: Pi-hole, WireGuard VPN, locally hosted Forgejo for secret projects | Raspberry Pi, Debian, nginx, Forgejo          | Self-managed at home                                                                      |
+| **Cloud Lab**             | Cloud VPS infrastructure: WireGuard VPN, Matrix homeserver with bridges, various websites      | Debian Trixie, nginx, Matrix Synapse, Postfix | SA-based VPS provider                                                                     |
 
 ---
 
